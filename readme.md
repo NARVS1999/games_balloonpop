@@ -9,7 +9,7 @@ features:
 - Click to pop
 - Miss penalty
 
-Demo: 
+Demo: https://narvs1999.github.io/games_balloonpop/
 
 ![Demo Image](demo-image.png)
 
